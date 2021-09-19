@@ -1,0 +1,14 @@
+OPTIONS https://Xp4sTM90BVzr.frontroute.org/s02/images/audiobooks/1/8/5/1/3/files/klyuch-sudnogo-dnya-43.mp3
+accept: */*
+accept-encoding: identity;q=1, *;q=0
+accept-language: en-US,en;q=0.9,nl-NL;q=0.8,nl;q=0.7
+dnt: 1
+range: bytes=0-
+referer: https://audiobook-mp3.com/
+sec-ch-ua: "Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: video
+sec-fetch-mode: no-cors
+sec-fetch-site: cross-site
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
